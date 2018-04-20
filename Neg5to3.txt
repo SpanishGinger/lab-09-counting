@@ -2,12 +2,12 @@
 	<html>
 	<body>
 	<script>
-		
-		
-		for(x=10; x>=-10; x=x-1){
-			console.log(x);
-			}
-		
+	
+	r(x=-10; x<=3; x=x+1){
+				console.log(x);
+				}
+	
+	
 	</script>
 	</body>	
 	</html>
